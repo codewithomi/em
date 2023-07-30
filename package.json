@@ -7,7 +7,7 @@
     "start": "node index.js",
     "build": "npm i"
   },
-  "author": "Sanjay Gawai",
+  "author": "Omkar Chobhe",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
